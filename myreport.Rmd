@@ -1,0 +1,150 @@
+---
+title: "myreport"
+author: "-"Bailey" -"Collaborator""
+date: "3/16/2021"
+output:
+  pdf_document: default
+  html_document: default
+abstract: "This is our abstract.\n\nIt consists of two paragraphs. \n"
+---
+
+# Header 1
+<h1>header</h1>
+Biggest 
+
+## Header 2
+Big 
+
+### Header 3
+Pretty big 
+
+#### Header 4
+Bold face header 
+
+<!-- Horizontal rules  --> (ctrl,shift,c> for commenting)
+
+
+****
+
+_____
+
+-----
+
+# Intro to Rmd Formatting 
+
+Here is an example of bold text **bold** text, __bold__
+Here is an example of *italic* text, _italic_
+Here is an example of ***bold italic*** text, ___bold italic___
+What about superscripts? x^2^ For subscripts x~0~
+<u>underline</u>
+~~strikethrough~~ + ***no***!
+
+Here is an example of bold text **bold** text, __bold__
+Here is an example of *italic* text, _italic_
+Here is an example of ***bold italic*** text, ___bold italic___
+What about superscripts? x^2^ For subscripts x~0~
+<u>underline</u>
+~~strikethrough~~ + ***no***!
+
+<!-- Line breaks -->
+
+Line1  
+Line2
+
+Line 1 <br>
+Line 2
+
+\* '<br>' starts a newline, it dosen't start a new paragraph 
+
+<!--Paragraph-->
+
+Topic 1. Its good
+
+Topic 2. some more great stuff.
+
+Topic 3. blah blah blah 
+
+<!-- Footnotes -->
+
+Here is a sentence with a footnote [^1]. This sentence follows the footnote. 
+
+[^1]: Here is our first footnote. 
+[^2]: second footnote
+
+This is the introduction of our document and we want to include some important
+information from a person in our field. 
+
+> This is our quote from the important person 
+>
+> This is a second quote from a ***really*** important person
+>
+>>. Nested quote from the second person 
+
+<!-- Lists -->
+
+Here are our lists for a roadmap:
+
+1. item 1
+2. item 2
+3. item 3
+
+Numbers don't matter 
+
+1. item 1
+1. item 2
+1. item 3
+
+Symbol lists 
+
+- item 1
+- item 2
+- item 3
+
+A different symbol 
+ 
+* item 1
+* item 2 
+* item 3
+
+Sublists
+
+1. item 1
+    i. subitem 1
+2. item 2
+    ii. subitem 2
+3. item 3
+    iii. sub 3
+
+We can include blockquotes within our lists 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
